@@ -14,7 +14,7 @@ ACM-W supports, celebrates, and advocates for the full engagement of women in al
 
 The Society of Women in computing aims to meet the goals of ACM-W and seeks to bridge the gender gap in computing-related fields. We also seek to act as a central organization for women at the college to provide resources and opportunities for women to network, foster relationships and share their experiences in computing.
 
-<p align = "center"> <font size = "5"> <span style = "color: #E3B23C"> **Thank you to our sponsors!** </span> </font> </p>
+<p align = "center"> <font size = "5"> <span style = "color: #E3B23C"> <b> Thank you to our sponsors! </b> </span> </font> </p>
 
 <p align="center">
 <img src= "images/cisco-logo-transparent.png" width="150" height="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "images/northrop-grumman-logo.png" width="150" height="150"> 
