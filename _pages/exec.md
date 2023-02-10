@@ -11,7 +11,11 @@ redirect_from:
   <img src= "/new_site/images/aashni_2023.jpg" width="350" height="350" > 
   
   <br>
+  
   Hello! I am a junior double majoring in Computer Science and Data Science on the Data Applications track. SWC is a great place to learn about Computer Science, meet other women interested in technology, and have fun!
+  
+  <br>
+  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">](https://www.linkedin.com/in/aashni-manroa-954a11180/) 
 </p>
 
 <p align="center">
@@ -27,6 +31,7 @@ redirect_from:
   <img src= "/new_site/images/caroline_2023.jpg" width="350" height="350" >
 
   <br>
+  
   Hi! I am a senior majoring in Computer Science and Government. Outside of class, I work for AidData as a Software Developer and love to read and watch movies. I am so excited to be part of this community of amazing people in tech fields!
   </p>
 
@@ -35,6 +40,7 @@ redirect_from:
   <img src= "/new_site/images/grishma_2023.jpg" width="350" height="350" >
 
   <br>
+  
   I am a sophomore double majoring in Computer Science and Finance! On campus, I am also involved in Smart Woman Securities and the Debate Society. I love the SWC community as I have met so many incredible people with similar interests!
   </p>
 
@@ -52,6 +58,7 @@ redirect_from:
   <img src= "/new_site/images/kaitlyn_2023.jpg" width="350" height="350" >
   
   <br>
+  
   I’m a senior studying Data Science on the Algorithms track and Government. Outside of the Society of Women in Computing, I’m a researcher in the geoLab research lab and co-captain of a club volleyball team! I love being in SWC due to the amazing community of women and the enriching program through the Berkeley Middle School Robotics Club!                        
   </p>
 
