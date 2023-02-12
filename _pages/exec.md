@@ -16,7 +16,8 @@ redirect_from:
   
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/aashni-manroa-954a11180/) 
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/aashni-manroa-954a11180/) 
 
 </p>
 
@@ -28,7 +29,8 @@ redirect_from:
   Hey! I am a junior majoring in computer science and psychology. I love being a part of the SWC community because it’s so supportive and it’s where I’ve met many of my friends in the tech industry :) 
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/lydia-cheng-09a4101b3/) 
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/lydia-cheng-09a4101b3/) 
   </p>
 
 <p align="center">
@@ -41,7 +43,8 @@ redirect_from:
   
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/caroline-mccain/) 
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/caroline-mccain/) 
   </p>
 
 <p align="center">
@@ -53,7 +56,8 @@ redirect_from:
   I am a sophomore double majoring in Computer Science and Finance! On campus, I am also involved in Smart Woman Securities and the Debate Society. I love the SWC community as I have met so many incredible people with similar interests!
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/grishma-baruah/) 
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/grishma-baruah/) 
   
   </p>
 
@@ -67,7 +71,8 @@ redirect_from:
   
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/rushika-devineni-2012ab1b2/) 
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/rushika-devineni-2012ab1b2/) 
   
   </p>
 
@@ -81,7 +86,8 @@ redirect_from:
   
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> [LinkedIn](https://www.linkedin.com/in/kaitlyn-wilson-922bb4258/)
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  [LinkedIn](https://www.linkedin.com/in/kaitlyn-wilson-922bb4258/)
   </p>
 
 
