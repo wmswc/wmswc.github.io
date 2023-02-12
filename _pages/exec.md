@@ -16,10 +16,11 @@ redirect_from:
   
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/aashni-manroa-954a11180/) 
-
+  
 </p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" align = "center"> 
+  
+  [LinkedIn](https://www.linkedin.com/in/aashni-manroa-954a11180/) 
 
 <p align="center">
   <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Lydia Cheng </b> </span> </font> <br> 
@@ -29,9 +30,12 @@ redirect_from:
   Hey! I am a junior majoring in computer science and psychology. I love being a part of the SWC community because it’s so supportive and it’s where I’ve met many of my friends in the tech industry :) 
   <br>
   
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/lydia-cheng-09a4101b3/) 
+  
+  
   </p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" align = "center"> 
+  
+  [LinkedIn](https://www.linkedin.com/in/lydia-cheng-09a4101b3/) 
 
 <p align="center">
   <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Caroline McCain </b> </span> </font> <br> 
@@ -44,8 +48,10 @@ redirect_from:
   <br>
   
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/caroline-mccain/) 
+  
   </p>
+  
+  [LinkedIn](https://www.linkedin.com/in/caroline-mccain/) 
 
 <p align="center">
   <font size = "5"> <span style = "color: #785589"> <b> Secretary: Grishma Baruah </b> </span> </font> <br> 
@@ -57,9 +63,10 @@ redirect_from:
   <br>
   
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/grishma-baruah/) 
+  
   
   </p>
+  [LinkedIn](https://www.linkedin.com/in/grishma-baruah/) 
 
 
 <p align="center">
@@ -72,9 +79,9 @@ redirect_from:
   <br>
   
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/rushika-devineni-2012ab1b2/) 
   
   </p>
+  [LinkedIn](https://www.linkedin.com/in/rushika-devineni-2012ab1b2/) 
 
 <p align="center">
   <font size = "5"> <span style = "color: #A5668B"> <b> Outreach Chair: Kaitlyn Wilson </b> </span> </font> <br> 
@@ -87,7 +94,8 @@ redirect_from:
   <br>
   
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  [LinkedIn](https://www.linkedin.com/in/kaitlyn-wilson-922bb4258/)
+  
   </p>
+  [LinkedIn](https://www.linkedin.com/in/kaitlyn-wilson-922bb4258/)
 
 
