@@ -8,3 +8,25 @@ redirect_from:
 ---
 
 Each year we send a group to the Grace Hopper Conference. 
+
+Here is our schedule of events this semester: 
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>1/31</td>
+    <td>Interest Meeting</td>
+    
+  </tr>
+  <tr>
+    <td>2/21</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>3/7</td>
+    <td>TBD</td>
+  </tr>
+</table>
