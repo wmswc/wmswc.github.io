@@ -1,6 +1,6 @@
 ---
 permalink: /volunteering/
-title: "Volunteering"
+title: "Outreach"
 excerpt: "About Us"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,9 @@ Our volunteering program at Berkeley Middle School has been a key part of our cl
 
 <p align="center"> <font size="4"> Pictures and Videos! </font> </p>
 
-<p align="center">
-  <img src= "/new_site/images/Volunteering Photos/20220301_162410.mp4" width="550" height="350" > 
+<p align="left">
+  <img src= "/new_site/images/Volunteering Photos/IMG_0298.jpg" width="490" height="300" > 
+</p>
+<p align="right">
+    <img src= "/new_site/images/Volunteering Photos/20220322_162557.jpg" width="490" height="300" >
 </p>
