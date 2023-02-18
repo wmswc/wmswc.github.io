@@ -42,7 +42,13 @@ Our volunteering program at Berkeley Middle School has been a key part of our cl
   <img src= "/new_site/images/Volunteering Photos/20220208_164621.jpg" width="350" height="150" >
 </p>
 
-[](https://user-images.githubusercontent.com/26678552/219787654-11592abf-cf4e-4129-8bdc-88914e2f5292.mp4)
+![]("/new_site/images/Volunteering Photos/robotics_gif_1.gif")
 
-[](https://user-images.githubusercontent.com/26678552/219788033-b7336f78-b9b1-4943-a1ff-76ed69bb4daa.mp4)
+[]("/new_site/images/Volunteering Photos/robotics_gif_1.gif")
+
+![](/new_site/images/Volunteering Photos/robotics_gif_1.gif)
+
+[](/new_site/images/Volunteering Photos/robotics_gif_1.gif)
+
+<img src= "/new_site/images/Volunteering Photos/robotics_gif_1.gif">
 
