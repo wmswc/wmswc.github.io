@@ -11,6 +11,9 @@ main:
     
   - title: "Meet Exec"
     url: /exec/
+    
+  - title: "Join Our Club"
+    url: /join/  
         
   - title: "Contact Us"
     url: /contact/
