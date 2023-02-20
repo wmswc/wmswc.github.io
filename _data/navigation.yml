@@ -2,12 +2,12 @@
 main:
   - title: "About Us"
     url: /about/
+    
+  - title: "Outreach"
+    url: /volunteering/    
 
   - title: "Events & Activities"
     url: /events/    
-
-  - title: "Outreach"
-    url: /volunteering/    
     
   - title: "Meet Exec"
     url: /exec/
