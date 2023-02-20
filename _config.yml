@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William & Mary Society of Women in Computing"
+title                    : "W&M Society of Women in Computing"
 title_separator          : "-"
 name                     : &name "WMSWC"
 description              : &description "personal description"
