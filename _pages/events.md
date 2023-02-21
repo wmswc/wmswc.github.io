@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /events.html
 ---
-
-Each year we send a group to the Grace Hopper Conference. 
+We meet every other Tuesday from 7-8pm in Tucker 110!
 
 Here is our schedule of events this semester: 
 
