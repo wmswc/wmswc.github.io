@@ -11,4 +11,4 @@ How do you join our club?
 
 To become a dues paying member, venmo $5 to @wmswc every semester. Dues paying members receive many benefits, such as a free SWC hoodie and access to our resume drop. Our resume drop is a great opportunity to have a member of our exec board personally review your resume and give you feedback! 
 
-Additionally, subscribe to our email list on Tribelink to recieve updates on our biweekly meetings. 
+Additionally, email swc@email.wm.edu to be added to our email list, where you will recieve updates on our biweekly meetings.
