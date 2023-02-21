@@ -23,7 +23,7 @@ Here is our schedule of events this semester:
   </tr>
   <tr>
     <td>2/21</td>
-    <td>TBD</td>
+    <td>LinkedIn & Resume Workshop + SWC Hoodie Handout!</td>
   </tr>
   <tr>
     <td>3/7</td>
