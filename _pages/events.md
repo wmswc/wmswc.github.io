@@ -26,6 +26,10 @@ Here is our schedule of events this semester:
   </tr>
   <tr>
     <td>3/7</td>
-    <td>TBD</td>
+    <td>Grace Hopper Info Session</td>
+  </tr>
+  <tr>
+    <td>3/21</td>
+    <td>Technial Interview Workshop</td>
   </tr>
 </table>
