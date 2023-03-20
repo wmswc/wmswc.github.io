@@ -29,7 +29,7 @@ Here is our schedule of events this semester:
     <td>Grace Hopper Info Session</td>
   </tr>
   <tr>
-    <td>3/21</td>
+    <td>3/28</td>
     <td>Technial Interview Workshop</td>
   </tr>
 </table>
