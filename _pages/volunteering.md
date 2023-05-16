@@ -7,7 +7,7 @@ redirect_from:
   - /volunteering.html
 ---
 
-<p align="center"> <img src= "/images/CommunityService_2023.jpg" width="450" height="100"> </p>
+<p align="center"> <img src= "/images/CommunityService_2023.png" width="450" height="100"> </p>
 
 Our volunteering program at Berkeley Middle School has been a key part of our club since January 2018. We have been fortunate enough to receive three [ACM Student Chapter Excellence Awards](https://www.acm.org/chapters/student-chapter-excellence-awards/past-winners/past-winners) for Outstanding Community Service in 2018, 2019, and 2023. 
 
