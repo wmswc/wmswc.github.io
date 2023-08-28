@@ -22,7 +22,7 @@ redirect_from:
   <img src= "/images/rushika_2024.png" width="350" height="350" > 
   
   <br>
-  Hi! 
+  Hey! I am a junior majoring in computer science and cams on the math bio track. I am also a part of Chi O and SASA! I joined SWC my freshman year because I wanted to make friends that were in cs or data science and I also wanted to learn more about the cs opportunities that WM provided for me!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
   <a href="https://www.linkedin.com/in/rushika-devineni-2012ab1b2/"> LinkedIn </a>
