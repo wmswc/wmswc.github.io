@@ -47,7 +47,7 @@ redirect_from:
   Hey!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href=""> LinkedIn </a>
+  <a href="https://www.linkedin.com/in/elise-lee-2024/"> LinkedIn </a>
   
   </p>
 
