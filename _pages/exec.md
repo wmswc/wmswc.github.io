@@ -29,14 +29,14 @@ redirect_from:
   </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Em Ebalo </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Heather Acuna (she/her) </b> </span> </font> <br> 
   <img src= "/images/em_2024.png" width="350" height="350" >
 
   <br>
-  My name is Em Ebalo (any pronouns). I’m a junior double majoring in Public Policy and Data Science. I’m also involved with the Filipino American Student Association and Minorities Against the Climate Crisis. I’m excited for SWC’s workshops. They’re incredibly helpful and gives you a chance to meet other wonderful motivated people on campus!
+  Hello! I am a Junior studying Computer Science with a minor in Data Science. I also dance in the Salsa Club, and I work at William & Mary’s Makerspace. I love SWC because it’s a really supportive community, and has opened up a lot of opportunities for me and other members.
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/emily-ebalo/"> LinkedIn </a>
+  <a href="https://www.linkedin.com/in/Heather-Acuna/"> LinkedIn </a>
   </p>
 
 <p align="center">
