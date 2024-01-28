@@ -7,18 +7,7 @@ redirect_from:
   - /exec.html
 --- 
 <p align="center" >
-  <font size = "5"> <span style = "color: #45062E"> <b> President: Lydia Cheng </b> </span> </font> <br>
-  <img src= "/images/lydia_2024.png" width="350" height="350" > 
-  
-  <br>
-  Hi! I am a senior majoring in computer science and psychology. I love being a part of the SWC community because it’s so supportive and it’s where I’ve met many of my friends in the tech industry :)
-  <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/lydia-cheng-09a4101b3"> LinkedIn </a>
-</p>
-
-<p align="center">
-  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Rushika Devineni </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #45062E"> <b> President: Rushika Devineni </b> </span> </font> <br>
   <img src= "/images/rushika_2024.png" width="350" height="350" > 
   
   <br>
@@ -26,6 +15,17 @@ redirect_from:
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
   <a href="https://www.linkedin.com/in/rushika-devineni-2012ab1b2/"> LinkedIn </a>
+</p>
+
+<p align="center">
+  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Ellie Baranowski </b> </span> </font> <br> 
+  <img src= "/images/ellie_2024.png" width="350" height="350" > 
+  
+  <br>
+  I’m a sophomore majoring in Computer Science and minoring in Physics. I play softball and have a brown belt in Judo, I’m also a member of WISE (Women in STEM) and the president of the brand new Judo Club. I love SWC because of the opportunity it provides to meet other women in CS and learn the softer side of the industry (how to interview, networking, internships, etc) as well as the support the club provides for underrepresented groups in CS.
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  <a href="https://www.linkedin.com/in/eleanora-baranowski/"> LinkedIn </a>
   </p>
 
 <p align="center">
@@ -53,18 +53,18 @@ redirect_from:
 
 
 <p align="center">
-  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Ellie Baranowski </b> </span> </font> <br> 
-  <img src= "/images/ellie_2024.png" width="350" height="350" >
+  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Hannah Kim </b> </span> </font> <br> 
+  
 
   <br>
-  I’m a sophomore majoring in Computer Science and minoring in Physics. I play softball and have a brown belt in Judo, I’m also a member of WISE (Women in STEM) and the president of the brand new Judo Club. I love SWC because of the opportunity it provides to meet other women in CS and learn the softer side of the industry (how to interview, networking, internships, etc) as well as the support the club provides for underrepresented groups in CS.
+  Hey!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/eleanora-baranowski"> LinkedIn </a>
+  LinkedIn 
   </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #A5668B"> <b> Outreach Chair: Aashni Manroa </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Aashni Manroa (she/her) </b> </span> </font> <br> 
   <img src= "/images/aashni_2024.jpg" width="350" height="350" >
   
   <br>
@@ -74,4 +74,14 @@ redirect_from:
   <a href="https://www.linkedin.com/in/aashni-manroa/"> LinkedIn </a>
   </p>
 
+<p align="center">
+  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Eden Fitsum </b> </span> </font> <br> 
+  
+  
+  <br>
+  Hi!
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  LinkedIn
+  </p>
 
