@@ -30,7 +30,7 @@ redirect_from:
 
 <p align="center">
   <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Heather Acuna (she/her) </b> </span> </font> <br> 
-  <img src= "/images/em_2024.png" width="350" height="350" >
+  <img src= "/images/heather_2024.jpg" width="350" height="450" >
 
   <br>
   Hello! I am a Junior studying Computer Science with a minor in Data Science. I also dance in the Salsa Club, and I work at William & Mary’s Makerspace. I love SWC because it’s a really supportive community, and has opened up a lot of opportunities for me and other members.
