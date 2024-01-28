@@ -40,14 +40,14 @@ redirect_from:
   </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #785589"> <b> Secretary: Elise Lee </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #785589"> <b> Secretary: Comfort Ohajunwa (she/her) </b> </span> </font> <br> 
   <img src= "/images/elise_2024.png" width="350" height="350" >
 
   <br>
-  Hey!
+  Hi! I'm a sophomore double majoring in computer science and math. I joined SWC because I wanted to connect with other female students interested in computer science. Being part of SWC has also allowed me to learn and grow from other students' experiences.
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/elise-lee-2024/"> LinkedIn </a>
+  <a href="https://www.linkedin.com/in/comfort-ohajunwa/"> LinkedIn </a>
   
   </p>
 
