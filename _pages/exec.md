@@ -41,7 +41,7 @@ redirect_from:
 
 <p align="center">
   <font size = "5"> <span style = "color: #785589"> <b> Secretary: Comfort Ohajunwa (she/her) </b> </span> </font> <br> 
-  <img src= "/images/elise_2024.png" width="350" height="350" >
+  <img src= "/images/comfort_2024.jpg" width="350" height="450" >
 
   <br>
   Hi! I'm a sophomore double majoring in computer science and math. I joined SWC because I wanted to connect with other female students interested in computer science. Being part of SWC has also allowed me to learn and grow from other students' experiences.
