@@ -7,8 +7,8 @@ redirect_from:
   - /exec.html
 --- 
 <p align="center" >
-  <font size = "5"> <span style = "color: #45062E"> <b> President: Rushika Devineni </b> </span> </font> <br>
-  <img src= "/images/rushika_2024.png" width="350" height="350" > 
+  <font size = "5"> <span style = "color: #45062E"> <b> President: Rushika Devineni (she/her) </b> </span> </font> <br>
+  <img src= "/images/rushika_2024.jpg" width="550" height="350" > 
   
   <br>
   Hey! I am a junior majoring in computer science and cams on the math bio track. I am also a part of Chi O and SASA! I joined SWC my freshman year because I wanted to make friends that were in cs or data science and I also wanted to learn more about the cs opportunities that WM provided for me!
