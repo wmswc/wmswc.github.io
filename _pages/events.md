@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /events.html
 ---
-We meet every other Tuesday from 7-8pm in Tucker 110!
+We meet every other Tuesday from 7-8pm in Washington 305!
 
 Here is our schedule of events this semester: 
 
@@ -16,7 +16,7 @@ Here is our schedule of events this semester:
     <th>Activity</th>
   </tr>
   <tr>
-    <td>1/31</td>
+    <td>1/30</td>
     <td>Interest Meeting</td>
     
   </tr>
