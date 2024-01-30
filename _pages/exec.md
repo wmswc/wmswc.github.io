@@ -54,7 +54,7 @@ redirect_from:
 
 <p align="center">
   <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Hannah Kim </b> </span> </font> <br> 
-  <img src= "/images/comfort_2024.jpg" width="350" height="450" >
+  <img src= "/images/hannah_2024.jpg" width="560" height="430" >
 
   <br>
   Hi! I’m a sophomore majoring in data science and minoring in computer science. I’m also a part of KASA at W&M! I joined SWC because I wanted to meet other people with similar aspirations and learn more about the opportunities that are available to me!
@@ -75,13 +75,13 @@ redirect_from:
   </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Eden Fitsum </b> </span> </font> <br> 
-  <img src= "/images/aashni_2024.jpg" width="350" height="350" >
+  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Eden Fitsum (she/her) </b> </span> </font> <br> 
+  <img src= "/images/eden_2024.jpg" width="350" height="450" >
   
   <br>
   Hi! I’m a junior double majoring in Computer Science and Economics. I am also a member of the Women’s Club Volleyball Gold team and Griffin School Partnership. I joined SWC to meet others studying computer science and utilize the many resources provided by the club!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  LinkedIn
+  <a href="http://linkedin.com/in/edenfitsum"> LinkedIn </a>
   </p>
 
