@@ -18,7 +18,7 @@ redirect_from:
 </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Ellie Baranowski </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Ellie Baranowski (she/her) </b> </span> </font> <br> 
   <img src= "/images/ellie_2024.png" width="350" height="350" > 
   
   <br>
@@ -53,14 +53,14 @@ redirect_from:
 
 
 <p align="center">
-  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Hannah Kim </b> </span> </font> <br> 
+  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Hannah Kim (she/her) </b> </span> </font> <br> 
   <img src= "/images/hannah_2024.jpg" width="560" height="430" >
 
   <br>
   Hi! I’m a sophomore majoring in data science and minoring in computer science. I’m also a part of KASA at W&M! I joined SWC because I wanted to meet other people with similar aspirations and learn more about the opportunities that are available to me!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  LinkedIn 
+  LinkedIn
   </p>
 
 <p align="center">
