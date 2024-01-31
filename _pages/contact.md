@@ -7,4 +7,4 @@ redirect_from:
   - /contact.html
 ---
 
-Contact us at swc@email.wm.edu.
+Contact us at swc@wm.edu.
