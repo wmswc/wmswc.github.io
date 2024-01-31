@@ -19,17 +19,5 @@ Here is our schedule of events this semester:
     <td>1/30</td>
     <td>Interest Meeting</td>
     
-  </tr>
-  <tr>
-    <td>2/21</td>
-    <td>LinkedIn & Resume Workshop + SWC Hoodie Handout!</td>
-  </tr>
-  <tr>
-    <td>3/7</td>
-    <td>Grace Hopper Info Session</td>
-  </tr>
-  <tr>
-    <td>3/28</td>
-    <td>Technial Interview Workshop</td>
-  </tr>
+
 </table>
