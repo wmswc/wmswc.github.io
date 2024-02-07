@@ -14,7 +14,7 @@ Here is our schedule of events this semester:
   <tr>
     <th>Date</th>
     <th>Activity</th>
-  </tr>
+  <tr>
   <tr>
     <td>1/30</td>
     <td>Interest Meeting</td>
