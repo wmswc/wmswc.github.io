@@ -18,6 +18,9 @@ Here is our schedule of events this semester:
   <tr>
     <td>1/30</td>
     <td>Interest Meeting</td>
+  <tr>
+    <td>2/12</td>
+    <td>General Body Meeting</td>
     
 
 </table>
