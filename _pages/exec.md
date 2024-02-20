@@ -60,7 +60,7 @@ redirect_from:
   Hi! I’m a sophomore majoring in data science and minoring in computer science. I’m also a part of KASA at W&M! I joined SWC because I wanted to meet other people with similar aspirations and learn more about the opportunities that are available to me!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  LinkedIn
+  <a href="www.linkedin.com/in/hannah-kim-3163902b2"> LinkedIn </a>
   </p>
 
 <p align="center">
