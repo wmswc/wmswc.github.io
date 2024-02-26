@@ -1,6 +1,6 @@
 ---
 permalink: /berkeley/
-title: "Outreach"
+title: "Outreach at Berkeley Middle School"
 excerpt: "About Us"
 author_profile: true
 redirect_from: 
