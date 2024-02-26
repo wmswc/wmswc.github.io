@@ -13,7 +13,7 @@ Our mentorship program at Berkeley Middle School has been a key part of our club
 
 <p align="center"> <font size="5"> Pictures and Videos! </font> </p>
 
-[Berkeley MS](berkeley.md)
+[Berkeley Middle School](berkeley.md)
 
 <p float="left">
   <img src= "/images/Volunteering Photos/IMG_0298.jpg" width="350" height="150" > 
