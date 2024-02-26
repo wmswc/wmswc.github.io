@@ -1,3 +1,12 @@
+---
+permalink: /berkeley/
+title: "Outreach"
+excerpt: "About Us"
+author_profile: true
+redirect_from: 
+  - /berkeley.html
+---
+
 <p float="left">
   <img src= "/images/Volunteering Photos/IMG_0298.jpg" width="350" height="150" > 
   &nbsp;&nbsp;&nbsp;&nbsp;
