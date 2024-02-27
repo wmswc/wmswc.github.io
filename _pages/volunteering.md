@@ -25,3 +25,11 @@ Our mentorship program at Berkeley Middle School has been a key part of our club
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="../james-blair/"> <font size="4"> <b> James Blair Middle School </b> </font> </a>
+</p>
+
+<p align="center">
+  <img src= "/images/Volunteering Photos/jb_1.jpg" width="350" height="290" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
