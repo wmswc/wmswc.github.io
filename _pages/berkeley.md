@@ -69,7 +69,12 @@ redirect_from:
   
   <img src= "/images/Volunteering Photos/IMG_0380.jpg" width="250" height="350" >
   &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
+<p align="center">
   <img src= "/images/Volunteering Photos/IMG_0392.jpg" width="250" height="350" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "/images/Volunteering Photos/IMG_0401.jpg" width="250" height="350" >
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
