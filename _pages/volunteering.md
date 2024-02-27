@@ -19,5 +19,5 @@ Our mentorship program at Berkeley Middle School has been a key part of our club
 </p>
 
 <p align="center">
-  <a href="berkeley"> Berkeley Middle School </a>
+  <a href="../berkeley/"> Berkeley Middle School </a>
 </p>
