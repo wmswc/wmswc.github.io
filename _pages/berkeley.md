@@ -7,7 +7,7 @@ redirect_from:
   - /berkeley.html
 ---
 
-<p float="left">
+<p align="center">
   <img src= "/images/Volunteering Photos/IMG_0298.jpg" width="350" height="150" > 
   &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -15,7 +15,7 @@ redirect_from:
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p float="left">
+<p align="center">
   <img src= "/images/Volunteering Photos/20220322_162557.jpg" width="350" height="150" >
   &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -23,7 +23,7 @@ redirect_from:
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p float="left">
+<p align="center">
   <img src= "/images/Volunteering Photos/20220412_155507.jpg" width="350" height="150" >
   &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -31,7 +31,7 @@ redirect_from:
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p float="left">
+<p align="center">
   <img src= "/images/Volunteering Photos/20220412_155159.jpg" width="350" height="150" >
   &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -39,7 +39,7 @@ redirect_from:
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p float="left">
+<p align="center">
   <img src= "/images/Volunteering Photos/20220208_160244.jpg" width="350" height="150" >
   &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -56,6 +56,6 @@ redirect_from:
 </p>
 
 <p align="center">
-  <img src= "/images/Volunteering Photos/20220208_164621.jpg" width="500" height="350" >
+  <img src= "/images/Volunteering Photos/20220208_164621.jpg" width="350" height="250" >
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
