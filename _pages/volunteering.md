@@ -14,10 +14,14 @@ Our mentorship program at Berkeley Middle School has been a key part of our club
 <p align="center"> <font size="5"> Pictures and Videos! </font> </p>
 
 <p align="center">
-  <img src= "/images/Volunteering Photos/20220208_164621.jpg" width="500" height="350" >
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="../berkeley/"> <font size="4"> <b> Berkeley Middle School </b> </font> </a>
 </p>
 
 <p align="center">
-  <a href="../berkeley/"> Berkeley Middle School </a>
+  <img src= "/images/Volunteering Photos/IMG_7023.jpg" width="350" height="250" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "/images/Volunteering Photos/IMG_7033.jpg" width="350" height="250" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
