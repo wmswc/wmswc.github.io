@@ -58,4 +58,18 @@ redirect_from:
 <p align="center">
   <img src= "/images/Volunteering Photos/20220208_164621.jpg" width="350" height="250" >
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src= "/images/Volunteering Photos/IMG_7023.jpg" width="350" height="250" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src= "/images/Volunteering Photos/IMG_0815.jpg" width="250" height="350" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src= "/images/Volunteering Photos/IMG_0380.jpg" width="250" height="350" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "/images/Volunteering Photos/IMG_0392.jpg" width="250" height="350" >
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
