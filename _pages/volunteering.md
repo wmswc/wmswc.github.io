@@ -30,6 +30,6 @@ Our mentorship program at Berkeley Middle School has been a key part of our club
 </p>
 
 <p align="center">
-  <img src= "/images/Volunteering Photos/jb_1.jpg" width="350" height="290" >
+  <img src= "/images/Volunteering Photos/jb_1.jpg" width="400" height="350" >
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
