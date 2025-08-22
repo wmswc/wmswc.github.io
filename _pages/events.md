@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /events.html
 ---
-We meet every other Tuesday from 7-8pm in Washington 317!
+We meet every other Tuesday from 8-9pm in Tucker 220!
 
 Here is our schedule of events this semester: 
 
