@@ -7,81 +7,72 @@ redirect_from:
   - /exec.html
 --- 
 <p align="center" >
-  <font size = "5"> <span style = "color: #45062E"> <b> President: Rushika Devineni (she/her) </b> </span> </font> <br>
-  <img src= "/images/rushika_2024.jpg" width="550" height="350" > 
+  <font size = "5"> <span style = "color: #45062E"> <b> President: Ellie Baranowski (she/her) </b> </span> </font> <br>
+  <img src= "/images/2025_exec/ellie_baranowski.jpeg" width="550" height="350" > 
   
   <br>
-  Hey! I am a junior majoring in computer science and cams on the math bio track. I am also a part of Chi O and SASA! I joined SWC my freshman year because I wanted to make friends that were in cs or data science and I also wanted to learn more about the cs opportunities that WM provided for me!
+Hi! I’m a senior majoring in Computer Science with a minor in Physics. I am also the President of ClubJudo. I joined SWC my freshman year to meet new people and find a community of CS girlies!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/rushika-devineni-2012ab1b2/"> LinkedIn </a>
+  <a href="https://www.linkedin.com/in/ellie-baranowski/"> LinkedIn </a>
 </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Ellie Baranowski (she/her) </b> </span> </font> <br> 
-  <img src= "/images/ellie_2024.png" width="350" height="350" > 
+  <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Comfort Ohajunwa (she/her) </b> </span> </font> <br> 
+  <img src= "/images/2025_exec/comfort_ohajunwa.JPG" width="350" height="350" > 
   
   <br>
-  I’m a sophomore majoring in Computer Science and minoring in Physics. I play softball and have a brown belt in Judo, I’m also a member of WISE (Women in STEM) and the president of the brand new Judo Club. I love SWC because of the opportunity it provides to meet other women in CS and learn the softer side of the industry (how to interview, networking, internships, etc) as well as the support the club provides for underrepresented groups in CS.
-  <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/eleanora-baranowski/"> LinkedIn </a>
-  </p>
-
-<p align="center">
-  <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Heather Acuna (she/her) </b> </span> </font> <br> 
-  <img src= "/images/heather_2024.jpg" width="350" height="450" >
-
-  <br>
-  Hello! I am a Junior studying Computer Science with a minor in Data Science. I also dance in the Salsa Club, and I work at William & Mary’s Makerspace. I love SWC because it’s a really supportive community, and has opened up a lot of opportunities for me and other members.
-  <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/Heather-Acuna/"> LinkedIn </a>
-  </p>
-
-<p align="center">
-  <font size = "5"> <span style = "color: #785589"> <b> Secretary: Comfort Ohajunwa (she/her) </b> </span> </font> <br> 
-  <img src= "/images/comfort_2024.jpg" width="350" height="450" >
-
-  <br>
-  Hi! I'm a sophomore double majoring in computer science and math. I joined SWC because I wanted to connect with other female students interested in computer science. Being part of SWC has also allowed me to learn and grow from other students' experiences.
+Hi! I'm a senior majoring in computer science and mathematics. I'm also part of ACM and geoLab! I joined SWC during my sophomore year because I wanted to connect with other female students who shared my interest in technology. Since then, not only have I made connections, but I've also gained skills and access to resources that have helped me on my academic/career journey!
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
   <a href="https://www.linkedin.com/in/comfort-ohajunwa/"> LinkedIn </a>
+  </p>
+
+<p align="center">
+  <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Athena Allgeier (she/her) </b> </span> </font> <br> 
+  <img src= "/images/2025_exec/athena_allgeier.jpeg" width="350" height="450" >
+
+  <br>
+  Hello! I am a Junior studying Computer Science with a minor in Math. I'm also involved in club fencing and am a member of Pi Phi. I joined SWC my freshman year to connect with other women in my major. In my freetime, I enjoy crafting and working out. 
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  <a href="https://www.linkedin.com/in/athena-allgeier/"> LinkedIn </a>
+  </p>
+
+<p align="center">
+  <font size = "5"> <span style = "color: #785589"> <b> Secretary: Rebecca George (any pronoun) </b> </span> </font> <br> 
+  <img src= "/images/2025_exec/rebecca_george.JPG" width="350" height="450" >
+
+  <br>
+Hi! I'm a senior Computer Science and CAMS Mathematical Biology major. I've been in SWC since sophomore year, along with Linux club, Robotics club, and ACM. I like to play outside, work on low-level code, and learn more about high performance computing.
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
+  <a href="https://www.linkedin.com/in/rc-george/"> LinkedIn </a>
   
   </p>
 
 
 <p align="center">
-  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Hannah Kim (she/her) </b> </span> </font> <br> 
-  <img src= "/images/hannah_2024.jpg" width="560" height="430" >
+  <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Molly Midkiff (she/her) </b> </span> </font> <br> 
+  <img src= "/images/2025_exec/molly_midkiff.JPG" width="560" height="430" >
 
   <br>
-  Hi! I’m a sophomore majoring in data science and minoring in computer science. I’m also a part of KASA at W&M! I joined SWC because I wanted to meet other people with similar aspirations and learn more about the opportunities that are available to me!
+  Hello! I’m a junior majoring in Computer Science with a focus in Cybersecurity and minoring in Public Health. I've been apart of SWC since my freshman year and cannot imagine my college experience without it! I love being able to easily connect with other women in computing here on campus. I am also apart of Alpha Chi Omega and enjoy CW walks, playing golf, and anything to do with art.
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="www.linkedin.com/in/hannah-kim-3163902b2"> LinkedIn </a>
+  <a href="www.linkedin.com/in/mcmidkiff4/"> LinkedIn </a>
   </p>
 
 <p align="center">
-  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Aashni Manroa (she/her) </b> </span> </font> <br> 
-  <img src= "/images/aashni_2024.jpg" width="350" height="350" >
+  <font size = "5"> <span style = "color: #A5668B"> <b> Outreach Chair: Gigi Kuffa (she/her) </b> </span> </font> <br> 
+  <img src= "/images/2025_exec/gigi_kuffa" width="350" height="350" >
   
   <br>
-  Hey! I'm a senior double majoring in Computer Science and Data Science. In addition to SWC, I'm also part of Syndicate, W&M's hip hop dance team. I also am the Official Webmaster for Student Assembly! I love SWC because of the connections it provides me, and I've made some lifelong friends through SWC! 
+Hi! I’m a senior, double majoring in Computer Science on the AI & Machine Learning track as well as English Literature. I’m also a Chapter Lead of the Google Developer Student Club chapter here! I joined SWC my freshman year because I wanted to meet more women in my major and participate in Outreach’s mentorship program.
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="https://www.linkedin.com/in/aashni-manroa/"> LinkedIn </a>
+  <a href="https://www.linkedin.com/in/gigikuffa/"> LinkedIn </a>
   </p>
 
-<p align="center">
-  <font size = "5"> <span style = "color: #A5668B"> <b> Co-Outreach Chair: Eden Fitsum (she/her) </b> </span> </font> <br> 
-  <img src= "/images/eden_2024.jpg" width="350" height="450" >
-  
-  <br>
-  Hi! I’m a junior double majoring in Computer Science and Economics. I am also a member of the Women’s Club Volleyball Gold team and Griffin School Partnership. I joined SWC to meet others studying computer science and utilize the many resources provided by the club!
-  <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"> 
-  <a href="http://linkedin.com/in/edenfitsum"> LinkedIn </a>
-  </p>
+
 
