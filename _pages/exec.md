@@ -65,7 +65,7 @@ Hi! I'm a senior Computer Science and CAMS Mathematical Biology major. I've been
 
 <p align="center">
   <font size = "5"> <span style = "color: #A5668B"> <b> Outreach Chair: Gigi Kuffa (she/her) </b> </span> </font> <br> 
-  <img src= "/images/2025_exec/gigi_kuffa" width="350" height="350" >
+  <img src= "/images/2025_exec/gigi_kuffa.jpeg" width="350" height="350" >
   
   <br>
 Hi! I’m a senior, double majoring in Computer Science on the AI & Machine Learning track as well as English Literature. I’m also a Chapter Lead of the Google Developer Student Club chapter here! I joined SWC my freshman year because I wanted to meet more women in my major and participate in Outreach’s mentorship program.
