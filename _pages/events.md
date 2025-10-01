@@ -41,9 +41,7 @@ Here is our schedule of events this semester:
   <tr>
     <td>10/1
     <td>Interview Prep w/ Linda Wu 7pm ONLINE
-  <tr>
-    <td>9/30
-    <td>SWC Social Night 8pm @ Blair 205
+
  
 
 </table>
