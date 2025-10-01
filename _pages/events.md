@@ -44,9 +44,6 @@ Here is our schedule of events this semester:
   <tr>
     <td>9/30
     <td>SWC Social Night 8pm @ Blair 205
-  <tr>
-    <td>9/30
-    <td>SWC Social Night 8pm @ Blair 205
-    
+ 
 
 </table>
