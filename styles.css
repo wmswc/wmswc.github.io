@@ -406,6 +406,11 @@ section {
         0px 5px 12px rgba(125, 216,88, 0.25) ,
         5px 0px 12px  rgba(227, 106, 180, 0.25);
 }
+.outreach-card img {
+    width: 350px;
+    height: 250px;
+    max-width: 100%;
+}
 .outreach-card-title {
     padding-bottom: 1rem;
 }
