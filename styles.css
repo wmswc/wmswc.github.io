@@ -327,7 +327,7 @@ section {
 
 
 
-/* Call to Action - W&M Style */
+/* GET INVOLVED BOX */
 .cta-box {
     background: var(--wm-green);
     color: white;
@@ -336,13 +336,11 @@ section {
     margin: auto;
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.75));
 }
-
 .cta-box h2 {
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     color: white;
 }
-
 .cta-box p {
     font-size: 1.125rem;
     margin-bottom: 2rem;
@@ -352,6 +350,7 @@ section {
     margin-right: auto;
 }
 
+/* MEET THE EXEC */
 .exec-bios {
     /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
     gap: 2.5rem;
@@ -362,12 +361,12 @@ section {
     flex-wrap: wrap;
     flex-flow: row wrap;
 }
-
 .exec-card {
     background: white;
     display: block;
     flex-grow: 0;
     width: 380px;
+    max-width: 100%;
     padding: 1.5rem;
     transition: transform 0.3s, box-shadow 0.3s;
     box-shadow: 
@@ -379,8 +378,7 @@ section {
     box-shadow: 0 5px 15px rgba(17, 87, 4, 0.45);
 }
 .exec-photo {
-    max-width: 350px;
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 .fa-linkedin-square {
@@ -496,11 +494,7 @@ footer {
         left: 0;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     }
-    /* When the menu is active/open */
-    .nav-links.responsive {
-        display: flex;
-    }
-    
+
     .nav-links li {
         width: 100%;
         text-align: center;
