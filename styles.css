@@ -97,6 +97,7 @@ header {
     color: white;
     margin: 0 auto;
     padding: 1rem .5rem;
+    width: 100%
 }
 
 nav {
@@ -287,6 +288,7 @@ section {
     font-size: 1.125rem;
     color: var(--text-medium);
     line-height: 1.8;
+    padding: 2rem;
 }
 
 
@@ -325,31 +327,6 @@ section {
 }
 
 
-
-
-/* GET INVOLVED BOX */
-.cta-box {
-    background: var(--wm-green);
-    color: white;
-    padding: 4rem 3rem;
-    text-align: center;
-    margin: auto;
-    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.75));
-}
-.cta-box h2 {
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
-    color: white;
-}
-.cta-box p {
-    font-size: 1.125rem;
-    margin-bottom: 2rem;
-    opacity: 0.95;
-    max-width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 /* MEET THE EXEC */
 .exec-bios {
     /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
@@ -360,13 +337,14 @@ section {
     align-items: flex-start; 
     flex-wrap: wrap;
     flex-flow: row wrap;
+    max-width: 100%;
 }
 .exec-card {
     background: white;
     display: block;
     flex-grow: 0;
     width: 380px;
-    max-width: 100%;
+    max-width: 90%;
     padding: 1.5rem;
     transition: transform 0.3s, box-shadow 0.3s;
     box-shadow: 
@@ -380,9 +358,9 @@ section {
 .exec-photo {
     max-width: 100%;
     height: auto;
+    flex-shrink: 1;
 }
 .fa-linkedin-square {
-    /* width: 5rem; */
     font-size: 24px;
 }
 
@@ -393,7 +371,8 @@ section {
     align-items: center;
     gap: 1rem;
     margin-top: 0;
-    padding-top: 0;
+    padding: 0 1rem 1rem 1rem;
+    /* max-width: 90%; */
 }
 
 .outreach-card {
@@ -424,8 +403,31 @@ section {
     color: var(--wm-green);
 }
 
+/* GET INVOLVED BOX */
+.cta-box {
+    background: var(--wm-green);
+    color: white;
+    padding: 4rem 3rem;
+    text-align: center;
+    margin: auto;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.75));
+}
+.cta-box h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+.cta-box p {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
+/* FOOTER */
 footer {
     background: var(--wm-green);
     color: white;
@@ -470,6 +472,8 @@ footer {
 .footer-section a:hover {
     color: var(--wm-gold);
 }
+
+
 
 /* Responsive Design */
 @media (max-width: 968px) {
@@ -527,6 +531,14 @@ footer {
     .hero h1 {
         font-size: 2rem;
     }
+    .logo-text{
+        font-size: 1rem;
+    }
+    .logo-subtext {
+        font-size: .7rem;
+    }
+    
+
     
     .hero-description {
         font-size: 1.05rem;
