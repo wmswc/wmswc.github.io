@@ -28,6 +28,8 @@
         </div>
     </div>
 
+
+    <!-- https://dev.to/shubhamtiwari909/responsive-navbar-without-javascript-3p7o -->
     <header>
         <nav>
             <div class="logo">
@@ -37,18 +39,20 @@
                     <div class="logo-subtext">William & Mary's ACM-W Chapter</div>
                 </div>
             </div>
+            
+           
+            <input type="checkbox" id="menu-dropdown"/>
+            <label for="menu-dropdown" class="menu-bars">
+                <i class="fa fa-bars"></i>
+            </label>
+
             <ul class="nav-links">
                 <li><a href="#about">About</a></li>
-                <!-- <li><a href="#mission">Mission</a></li> -->
                 <li><a href="#outreach">Outreach</a></li>
                 <li><a href="#exec">Meet Exec</a></li>
                 <li><a href="#calendar">Calendar</a></li>
                 <li><a href="#involved">Get Involved</a></li>
-                <!-- <li><a href="#resources">Resources</a></li> -->
             </ul>
-            <a href="javascript:void(0);" class="menu-bars icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
         </nav>
     </header>
 
@@ -116,7 +120,7 @@
             <div class="outreach-body section-description">
     
                 <div align="center"> 
-                    Our mentorship program at Berkeley Middle School has been a key part of our club since January 2018. 
+                    Our mentorship program at local elementary and middle schools has been a key part of our club since January 2018. 
                     Currently, we have an active partnership with Matoaka Elementary School's robotics program.
                     We are excited to hopefully expand to additional local middle and high schools this coming spring.
                     We have been fortunate enough to receive three 
@@ -127,19 +131,34 @@
                     <br>
                     If you and/or your school are interested in getting involved with SWC's outreach programs, please contact us at <a href="mailto:wmswc@wm.edu">swc@wm.edu</a>!
                 </div>
+                
+                
+                <div class="gallery">
+                    <figure>
+                    <img src="https://images.unsplash.com/photo-1458668383970-8ddd3927deed" alt="Lorem ipsum dolor sit amet">
+                    <figcaption>
+                        <h3>Matoaka Elementary School</h3>
+                        <p>2025-Presentz</p>
+                    </figcaption>
+                    </figure>
 
-                <div class="outreach-card">
-                    <h4 class="outreach-card-title"> Berkeley Middle School </h4>
-                    <img src= "assets/Volunteering Photos/IMG_7023.jpg" >
-                    <img src= "assets/Volunteering Photos/IMG_7033.jpg" >
-                </div>
+                    <figure>
+                        <img src= "assets/Volunteering Photos/IMG_7023.jpg" >                        <figcaption>
+                        <h3>Berkeley Middle School</h3>
+                        <p>Since 2018</p>
+                    </figcaption>
+                    </figure>
 
-                <div class="outreach-card">
-                    <h4 class="outreach-card-title">James Blair Middle School</h4>
+                    <figure>
                     <img src= "assets/Volunteering Photos/jb_1.jpg">
+                    <figcaption>
+                        <h3>James Blair Middle School</h3>
+                        <!-- <p>YEAR-YEAR</p> -->
+                    </figcaption>
+                    </figure>
                 </div>
             </div>
-        </div>
+    </div>
     </section>
 
     <section id="exec">
@@ -147,67 +166,85 @@
             <div class="section-header">
                 <h2 class="section-title">Meet Exec</h2>
             </div>
-            <div class="exec-bios">
-                <p align="center" class="exec-card" >
-                    <font size = "5"> <span style = "color: #45062E"> <b> President: Ellie Baranowski (she/her) </b> </span> </font> <br>
-                    <img class="exec-photo" src="assets/2025_exec/ellie_baranowski.jpeg"  > 
-                    <br>
-                    Hi! I’m a senior majoring in Computer Science with a minor in Physics. I am also the President of ClubJudo. 
-                    I joined SWC my freshman year to meet new people and find a community of CS girlies!
-                    <a href="https://www.linkedin.com/in/ellie-baranowski/"><i class="fa fa-linkedin-square" style="font-size: 24px;"></i></a>
-                </p>
 
-                <p align="center" class="exec-card">
-                    <font size = "5"> <span style = "color: #725AC1"> <b> Vice President: Comfort Ohajunwa (she/her) </b> </span> </font> <br> 
+            <div class="exec-bios">
+                <div align="center" class="exec-card" >
+                    <span class="exec-name"> <b> President: Ellie Baranowski</b> </span> <br>
+                    <div class="exec-photo-cont">
+                        <img class="exec-photo" src="assets/2025_exec/ellie_baranowski.jpeg"  > 
+                    </div>
+                    <span>
+                     Hi! I’m a senior majoring in Computer Science with a minor in Physics. I am also the President of ClubJudo. 
+                    I joined SWC my freshman year to meet new people and find a community of CS girlies!
+                    </span>
+                    <br>
+                    <span class="asset-tag pin-tag">She/Her</span>
+                    <span class="asset-tag linkedin-tag"><a href="https://www.linkedin.com/in/ellie-baranowski/"><i class="fa fa-linkedin-square"></i></a></span>
+                </div>
+
+                <div align="center" class="exec-card">
+                    <span class="exec-name"> <b> Vice President: Comfort Ohajunwa</b> </span> <br> 
+                    <div class="exec-photo-cont">
                     <img class="exec-photo" src= "assets/2025_exec/comfort_ohajunwa.JPG"  > 
+                    </div>
                     <br>
                     Hi! I'm a senior majoring in computer science and mathematics. I'm also part of ACM and geoLab! 
                     I joined SWC during my sophomore year because I wanted to connect with other female students who shared my interest in technology. 
                     Since then, not only have I made connections, but I've also gained skills and access to resources that have helped me on my academic/career journey!
-                    <a href="https://www.linkedin.com/in/comfort-ohajunwa/"><i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a>
-                </p>
+                    <br>
+                    <span class="asset-tag pin-tag">She/Her</span>
+                    <span class="asset-tag linkedin-tag"><a href="https://www.linkedin.com/in/comfort-ohajunwa/"><i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a></span>
+                </div>
 
-                <p align="center" class="exec-card">
-                    <font size = "5"> <span style = "color: #883677"> <b> Treasurer: Athena Allgeier (she/her) </b> </span> </font> <br> 
+                <div align="center" class="exec-card">
+                    <span class="exec-name"> <b> Treasurer: Athena Allgeier</b> </span> <br> 
                     <img class="exec-photo" src= "assets/2025_exec/athena_allgeier.jpeg" >
                     <br>
                     Hello! I am a Junior studying Computer Science with a minor in Math. 
                     I'm also involved in club fencing and am a member of Pi Phi. 
                     I joined SWC my freshman year to connect with other women in my major. 
                     In my freetime, I enjoy crafting and working out. 
-                    <a href="https://www.linkedin.com/in/athena-allgeier/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a>
-                </p>
+                    <br>
+                    <span class="asset-tag pin-tag">She/Her</span>
+                    <span class="asset-tag linkedin-tag"><a href="https://www.linkedin.com/in/athena-allgeier/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a></span>
+                </div>
 
-                <p align="center" class="exec-card">
-                    <font size = "5"> <span style = "color: #785589"> <b> Secretary: Rebecca George (any pronoun) </b> </span> </font> <br> 
+                <div align="center" class="exec-card">
+                    <span class="exec-name"> <b> Secretary: Rebecca George</b> </span> <br> 
                     <img class="exec-photo" src= "assets/2025_exec/rebecca_george.JPG">
                     <br>
                     Hi! I'm a senior Computer Science and CAMS Mathematical Biology major. 
                     I've been in SWC since sophomore year, along with Linux club, Robotics club, and ACM. 
                     I like to play outside, work on low-level code, and learn more about high performance computing.
-                    <a href="https://www.linkedin.com/in/rc-george/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a>
-                </p>
+                    <br>
+                    <span class="asset-tag pin-tag">Any pronoun</span>
+                    <span class="asset-tag linkedin-tag"><a href="https://www.linkedin.com/in/rc-george/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i> </a></span>
+                </div>
 
-                <p align="center" class="exec-card">
-                    <font size = "5"> <span style = "color: #977390"> <b> PR Chair: Molly Midkiff (she/her) </b> </span> </font> <br> 
+                <div align="center" class="exec-card">
+                  <span class="exec-name"> <b> PR Chair: Molly Midkiff</b> </span> <br> 
                     <img class="exec-photo" src= "assets/2025_exec/molly_midkiff.JPG">
                     <br>
                     Hello! I’m a junior majoring in Computer Science with a focus in Cybersecurity and minoring in Public Health. 
                     I've been apart of SWC since my freshman year and cannot imagine my college experience without it! 
                     I love being able to easily connect with other women in computing here on campus. 
                     I am also apart of Alpha Chi Omega and enjoy CW walks, playing golf, and anything to do with art.
-                    <a href="www.linkedin.com/in/mcmidkiff4/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i>  </a>
-                </p>
+                    <br>
+                    <span class="asset-tag pin-tag">She/Her</span>
+                    <span class="asset-tag linkedin-tag"><a href="www.linkedin.com/in/mcmidkiff4/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i>  </a></span>
+                </div>
 
-                <p align="center" class="exec-card">
-                    <font size = "5"> <span style = "color: #A5668B"> <b> Outreach Chair: Gigi Kuffa (she/her) </b> </span> </font> <br> 
+                <div align="center" class="exec-card">
+                    <span class="exec-name"> <b> Outreach Chair: Gigi Kuffa</b> </span> <br> 
                     <img class="exec-photo" src= "assets/2025_exec/gigi_kuffa.jpeg" width="350" height="350" >
                     <br>
                     Hi! I'm a senior, double majoring in Computer Science on the AI & Machine Learning track as well as English Literature. 
                     I'm also a Chapter Lead of the Google Developer Student Club chapter here! 
-                    I joined SWC my freshman year because I wanted to meet more women in my major and participate in Outreach's mentorship program.     
-                    <a href="https://www.linkedin.com/in/gigikuffa/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i></a>
-                </p>
+                    I joined SWC my freshman year because I wanted to meet more women in my major and participate in Outreach's mentorship program.   
+                    <br>  
+                    <span class="asset-tag pin-tag">She/Her</span>
+                    <span class="asset-tag linkedin-tag"><a href="https://www.linkedin.com/in/gigikuffa/"> <i class="fa fa-linkedin-square" style="font-size: 24px;"></i></a></span>
+                </div>
             </div>
         </div>
     </section>
