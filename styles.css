@@ -39,6 +39,8 @@ body {
     line-height: 1.7;
     color: var(--text-dark);
     background: var(--bg-white);
+
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,6 +50,9 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--wm-green);
 }
 
+img {
+  max-inline-size: 100%;
+}
 
 /* SPLASH TEXT ABOVE NAV BAR */
 .header-top {
@@ -56,6 +61,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0.5rem 0;
     font-size: 0.875rem;
 }
+
 .header-top-content {
     max-width: 1400px;
     margin: 0 auto;
@@ -64,33 +70,41 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: center;
     align-items: center;
 }
+
 .shine-text {
     font-size: 1rem;
     font-weight: bold;
-    background: linear-gradient(90deg, var(--wm-accessible-light-gold), white, var(--wm-accessible0light-gold)); /*Metallic gradient */
-    background-size: 200% 100%; /*Make gradient wider than text*/
-    -webkit-background-clip: text; /* Clip background to text shape */
+    background: linear-gradient(90deg, var(--wm-accessible-light-gold), white, var(--wm-accessible-light-gold));
+    /*Metallic gradient */
+    background-size: 200% 100%;
+    /*Make gradient wider than text*/
+    -webkit-background-clip: text;
+    /* Clip background to text shape */
     background-clip: text;
-    -webkit-text-fill-color: transparent; /* Make text color transparent */
-    animation: glow 3s ease-in-out infinite alternate;  
+    -webkit-text-fill-color: transparent;
+    /* Make text color transparent */
+    animation: glow 3s ease-in-out infinite alternate;
 }
+
 @keyframes glow {
     from {
         text-shadow: 0 0 .05em #fff, 0 0 .05em #fff, 0 0 .05em #ff0077, 0 0 .05em #ff0077;
     }
+
     to {
         text-shadow: 0 0 .15em #fff, 0 0 .15em #ff4da6, 0 0 .15em #ff4da6, 0 0 .15em #ff4da6;
     }
 }
+
 /* Cool examples: https://medium.com/@forfrontendofficial/14-css-shine-effects-for-frontend-3194b796c174 */
 /* I want sparkles though :( */
 
 
 
-
+/* NAV BAR */
 header {
     background: #190700;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -105,6 +119,8 @@ nav {
     justify-content: space-between;
     align-items: center;
     overflow: hidden;
+    padding-left: .5em;
+    padding-right: .5em;
 }
 
 .logo {
@@ -148,17 +164,21 @@ nav {
     color: var(--wm-gold);
 }
 
-.menu-bars { 
+.menu-bars {
     display: none;
     background: none;
     border: none;
     color: var(--wm-accessible-light-gold);
-    cursor: pointer;
+    cursor: pointer; 
     font-size: 1.5rem;
     padding: 0.5rem;
 }
+#menu-dropdown {
+    display: none;
+}
 
-/* Hero Section - W&M Style with image overlay */
+
+/* HERO AT TOP */
 .hero {
     position: relative;
     background: linear-gradient(135deg, var(--wm-green) 0%, var(--wm-gold) 100%);
@@ -210,10 +230,12 @@ nav {
     line-height: 1.6;
 }
 
+
+/* BUTTONS */
 .cta-buttons {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
 }
@@ -254,14 +276,16 @@ nav {
     border-color: var(--wm-accessible-light-gold);
 }
 
-/* Container */
+
+/* GENERAL: CONTAINERS  */
 .container {
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
 }
 
-/* Section Styles - W&M Layout */
+
+/* GENERAL: SECTIONS */
 section {
     padding: 3rem 1rem;
     margin: 0;
@@ -292,6 +316,7 @@ section {
 }
 
 
+/* INFO CARDS  */
 .feature-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -305,9 +330,9 @@ section {
     border-left: 4px solid var(--wm-green);
     transition: transform 0.3s, box-shadow 0.3s;
     /* background-color: lightgray; */
-    box-shadow: 
-        0px 5px 12px rgba(125, 216,88, 0.25) ,
-        5px 0px 12px  rgba(227, 106, 180, 0.25);
+    box-shadow:
+        0px 5px 12px rgba(125, 216, 88, 0.25),
+        5px 0px 12px rgba(227, 106, 180, 0.25);
 }
 
 .feature-card:hover {
@@ -327,43 +352,7 @@ section {
 }
 
 
-/* MEET THE EXEC */
-.exec-bios {
-    /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
-    gap: 2.5rem;
-    margin-top: 0;
-    display: inline-flex;
-    justify-content: center;
-    align-items: flex-start; 
-    flex-wrap: wrap;
-    flex-flow: row wrap;
-    max-width: 100%;
-}
-.exec-card {
-    background: white;
-    display: block;
-    flex-grow: 0;
-    width: 380px;
-    max-width: 90%;
-    padding: 1.5rem;
-    transition: transform 0.3s, box-shadow 0.3s;
-    box-shadow: 
-        0px 5px 12px rgba(125, 216,88, 0.25) ,
-        5px 0px 12px  rgba(227, 106, 180, 0.25);
-}
-.exec-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 5px 15px rgba(17, 87, 4, 0.45);
-}
-.exec-photo {
-    max-width: 100%;
-    height: auto;
-    flex-shrink: 1;
-}
-.fa-linkedin-square {
-    font-size: 24px;
-}
-
+/* OUTREACH  */
 .outreach-body {
     display: flex;
     justify-content: center;
@@ -372,36 +361,145 @@ section {
     gap: 1rem;
     margin-top: 0;
     padding: 0 1rem 1rem 1rem;
-    /* max-width: 90%; */
 }
-
-.outreach-card {
-    display: block;
-    padding: 1em;
-    text-align: center;
-    height: auto;
-    background: white;
-    box-shadow: 
-        0px 5px 12px rgba(125, 216,88, 0.25) ,
-        5px 0px 12px  rgba(227, 106, 180, 0.25);
-}
-.outreach-card img {
-    width: 350px;
-    height: 250px;
-    max-width: 100%;
-}
-.outreach-card-title {
-    padding-bottom: 1rem;
-}
-
 .award-banner {
-    max-height: 20%;
-    width: auto;
+    max-width: 250px;
+    height: auto;
 }
 
 .outreach-body a {
     color: var(--wm-green);
 }
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr)); 
+    gap: 1rem;
+}
+.gallery figure {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: row wrap;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.gallery figure:hover img {
+    transform: scale(1.1);
+}
+
+.gallery figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: .7rem;
+    background: rgba(0,0,0,.7);
+    color: white;
+    transition: transform 0.3s ease;
+    font-size: .75rem;
+}
+
+.gallery h3 {
+    font-size: .8rem;
+    color: var(--wm-accessible-light-gold);
+}
+
+
+
+
+/* MEET THE EXEC */
+.exec-bios {
+    margin-top: 0;
+    grid-auto-rows: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    max-width: 100%;
+    gap: 1.5rem;
+}
+
+.exec-card {
+    background: white;
+    display: block;
+    flex-grow: 0;
+    width: 420px;
+    max-width: 90%;
+    padding: 1.5rem;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow:
+        0px 5px 12px rgba(125, 216, 88, 0.25),
+        5px 0px 12px rgba(227, 106, 180, 0.25);
+}
+
+.exec-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 5px 15px rgba(17, 87, 4, 0.45);
+}
+.exec-name {
+    font-size: 1.25rem;
+    color: var(--wm-green)
+}
+.exec-photo-cont {
+    /* display: block; */
+    /* width: 100%; */
+    /* max-width: 300px; */
+    /* height: 200px; */
+    /* margin: 0 auto; */
+}
+.exec-photo {
+    width: 100%;
+    height: auto;
+    margin: .25rem;
+}
+
+.pin-tag::before {
+    content: '';
+    position: absolute;
+    top: -6px; /* Position it above the tag */
+    left: 10px;
+    width: 10px;
+    height: 10px;
+    background-color: #BB7396; /* Red pin color */
+    border-radius: 50%; /* Makes it a circle */
+    border: 2px solid #5a3c3c; /* Darker outline for contrast */
+}
+
+.asset-tag {
+    margin-top: .5rem;
+    position: relative; 
+    display: inline-block;
+    padding: .4rem .7rem;
+    background-color: #f3cedf; 
+    color: #741b47; 
+    font-weight: bold;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 .5rem .5rem rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+.linkedin-tag {
+    font-size: 1.5rem;
+    background-color: #cedff3;
+    padding: .25rem 1rem;
+}
+
+.linkedin-tag, .linkedin-tag a {
+    color: #4d7ba6;
+}
+
+
+
 
 /* GET INVOLVED BOX */
 .cta-box {
@@ -412,11 +510,13 @@ section {
     margin: auto;
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.75));
 }
+
 .cta-box h2 {
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     color: white;
 }
+
 .cta-box p {
     font-size: 1.125rem;
     margin-bottom: 2rem;
@@ -449,7 +549,7 @@ footer {
 
 .footer-section p,
 .footer-section address {
-    color: rgba(255,255,255,0.85);
+    color: rgba(255, 255, 255, 0.85);
     font-style: normal;
     line-height: 1.8;
     margin-bottom: 0.5rem;
@@ -464,7 +564,7 @@ footer {
 }
 
 .footer-section a {
-    color: rgba(255,255,255,0.85);
+    color: rgba(255, 255, 255, 0.85);
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -475,81 +575,53 @@ footer {
 
 
 
-/* Responsive Design */
-@media (max-width: 968px) {
-    .hero h1 {
-        font-size: 2.5rem;
-    }
-    
-    .section-title {
-        font-size: 2rem;
-    }
-   
-    nav {
-        flex-wrap: wrap;
-    }
+/* Responsive Nav Bar */
+@media screen and (max-width: 968px) {
+
+
     .menu-bars {
         display: block;
     }
+
     .nav-links {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        gap: 0;
-        background: #190700;
-        padding: 1rem 0;
         position: absolute;
         top: 100%;
         left: 0;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        right: 0;
+        background: #190700;
+        flex-direction: column;
+        gap: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-in-out;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
 
     .nav-links li {
         width: 100%;
         text-align: center;
-        border-bottom: 1px solid rgba(255,255,255,0.1);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     }
-    
+
     .nav-links li:last-child {
         border-bottom: none;
     }
-    
+
     .nav-links a {
         display: block;
         padding: 1rem 2rem;
         width: 100%;
     }
-    
+
     .nav-links a:hover {
         background: rgba(184, 151, 91, 0.1);
 
     }
-    
-}
 
-@media (max-width: 640px) {
-    .hero h1 {
-        font-size: 2rem;
+    #menu-dropdown:checked ~ .nav-links {
+        max-height: 400px;
     }
-    .logo-text{
-        font-size: 1rem;
-    }
-    .logo-subtext {
-        font-size: .7rem;
-    }
-    
-
-    
-    .hero-description {
-        font-size: 1.05rem;
-    }
-    
-    .cta-buttons {
-        flex-direction: column;
-    }
-    
-    .btn {
-        width: 100%;
-        text-align: center;
+    #menu-dropdown:checked ~ .menu-bars .fa-bars:before {
+        content: "\f00d";
     }
 }
