@@ -39,6 +39,8 @@ body {
     line-height: 1.7;
     color: var(--text-dark);
     background: var(--bg-white);
+    /* scroll-padding-top: 20em; */
+    /* scroll padding doesn't do anything and I don't know why */
 
 
 }
