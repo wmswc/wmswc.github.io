@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 img {
-  max-inline-size: 100%;
+    max-inline-size: 100%;
 }
 
 /* SPLASH TEXT ABOVE NAV BAR */
@@ -76,26 +76,32 @@ img {
 .shine-text {
     font-size: 1rem;
     font-weight: bold;
+
     background: linear-gradient(90deg, var(--wm-accessible-light-gold), white, var(--wm-accessible-light-gold));
-    /*Metallic gradient */
-    background-size: 200% 100%;
-    /*Make gradient wider than text*/
-    -webkit-background-clip: text;
-    /* Clip background to text shape */
+    background-size: 200% 100%; /*Make gradient wider than text*/
+    -webkit-background-clip: text; /* Clip background to text shape */
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    /* Make text color transparent */
-    animation: glow 3s ease-in-out infinite alternate;
+}
+.shine-text:hover {
+    animation: glow 1s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes glow {
     from {
-        text-shadow: 0 0 .05em #fff, 0 0 .05em #fff, 0 0 .05em #ff0077, 0 0 .05em #ff0077;
+        text-shadow: none;
     }
-
     to {
-        text-shadow: 0 0 .15em #fff, 0 0 .15em #ff4da6, 0 0 .15em #ff4da6, 0 0 .15em #ff4da6;
+        text-shadow: 0 0 .05em #fff, 0 0 .05em #ff4da6;    
     }
+    0% { text-shadow: none; }
+    5% { text-shadow: 0 0 .05em #fff, 0 0 .05em #ff4da6; }
+    10% { text-shadow: none; }
+    15% { text-shadow: 0 0 .05em #fff, 0 0 .05em #ff4da6; }
+    20% { text-shadow: none; }
+    25% { text-shadow: 0 0 .05em #fff, 0 0 .05em #ff4da6; }
+
 }
 
 /* Cool examples: https://medium.com/@forfrontendofficial/14-css-shine-effects-for-frontend-3194b796c174 */
@@ -171,10 +177,11 @@ nav {
     background: none;
     border: none;
     color: var(--wm-accessible-light-gold);
-    cursor: pointer; 
+    cursor: pointer;
     font-size: 1.5rem;
     padding: 0.5rem;
 }
+
 #menu-dropdown {
     display: none;
 }
@@ -187,17 +194,6 @@ nav {
     color: white;
     padding: 5rem 2rem 5rem;
     overflow: hidden;
-}
-
-.hero::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23115740" width="1200" height="600"/><circle cx="100" cy="100" r="3" fill="%23b9975b" opacity="0.3"/><circle cx="300" cy="200" r="2" fill="%23b9975b" opacity="0.3"/><circle cx="500" cy="150" r="2.5" fill="%23b9975b" opacity="0.3"/><circle cx="700" cy="250" r="2" fill="%23b9975b" opacity="0.3"/><circle cx="900" cy="180" r="3" fill="%23b9975b" opacity="0.3"/><circle cx="1100" cy="120" r="2" fill="%23b9975b" opacity="0.3"/></svg>');
-    opacity: 0.1;
 }
 
 .hero-content {
@@ -299,7 +295,7 @@ section {
 
 .section-header {
     max-width: 900px;
-    margin: 0 auto 4rem;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -331,7 +327,6 @@ section {
     padding: 2.5rem;
     border-left: 4px solid var(--wm-green);
     transition: transform 0.3s, box-shadow 0.3s;
-    /* background-color: lightgray; */
     box-shadow:
         0px 5px 12px rgba(125, 216, 88, 0.25),
         5px 0px 12px rgba(227, 106, 180, 0.25);
@@ -364,6 +359,7 @@ section {
     margin-top: 0;
     padding: 0 1rem 1rem 1rem;
 }
+
 .award-banner {
     max-width: 250px;
     height: auto;
@@ -375,16 +371,17 @@ section {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
     gap: 1rem;
 }
+
 .gallery figure {
     overflow: hidden;
     position: relative;
     display: flex;
     flex-direction: row wrap;
     background: white;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .gallery img {
@@ -404,7 +401,7 @@ section {
     left: 0;
     right: 0;
     padding: .7rem;
-    background: rgba(0,0,0,.7);
+    background: rgba(0, 0, 0, .7);
     color: white;
     transition: transform 0.3s ease;
     font-size: .75rem;
@@ -448,55 +445,45 @@ section {
     transform: translateY(-4px);
     box-shadow: 0 5px 15px rgba(17, 87, 4, 0.45);
 }
+
 .exec-name {
     font-size: 1.25rem;
     color: var(--wm-green)
 }
-.exec-photo-cont {
-    /* display: block; */
-    /* width: 100%; */
-    /* max-width: 300px; */
-    /* height: 200px; */
-    /* margin: 0 auto; */
-}
+
 .exec-photo {
     width: 100%;
     height: auto;
     margin: .25rem;
 }
 
-.pin-tag::before {
-    content: '';
-    position: absolute;
-    top: -6px; /* Position it above the tag */
-    left: 10px;
-    width: 10px;
-    height: 10px;
-    background-color: #BB7396; /* Red pin color */
-    border-radius: 50%; /* Makes it a circle */
-    border: 2px solid #5a3c3c; /* Darker outline for contrast */
-}
-
-.asset-tag {
-    margin-top: .5rem;
-    position: relative; 
-    display: inline-block;
-    padding: .4rem .7rem;
-    background-color: #f3cedf; 
-    color: #741b47; 
-    font-weight: bold;
+.tag {
+    line-height: 1;
+    font-size: .9rem;
+    display: inline-flex;
+    padding: 0 0.8rem;
+    box-shadow: 0 .1rem .1rem rgba(0, 0, 0, 0.3);
+    height: 2rem;
+    width: auto;
+    gap:0.4rem;
     border-radius: 2rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    box-shadow: 0 .5rem .5rem rgba(0, 0, 0, 0.1); /* Soft shadow */
+    margin-top: .75rem;
+    align-items: center;
+    vertical-align: middle;
 }
-.linkedin-tag {
+.pronouns {
+    background-color: #f3cedf;
+    color: #741b47;
+    font-weight: bold;
+    text-transform: camelcase;
+}
+.linkedin {
     font-size: 1.5rem;
+    line-height: 1;
     background-color: #cedff3;
-    padding: .25rem 1rem;
 }
 
-.linkedin-tag, .linkedin-tag a {
+.linkedin, .linkedin a {
     color: #4d7ba6;
 }
 
@@ -504,6 +491,7 @@ section {
 
 
 /* GET INVOLVED BOX */
+/* cta as in call to action */
 .cta-box {
     background: var(--wm-green);
     color: white;
@@ -577,10 +565,10 @@ footer {
 
 
 
-/* Responsive Nav Bar */
+/* Changes for Small Screens */
 @media screen and (max-width: 968px) {
 
-
+    /* Responsive Nav Bar */
     .menu-bars {
         display: block;
     }
@@ -620,10 +608,54 @@ footer {
 
     }
 
-    #menu-dropdown:checked ~ .nav-links {
+    #menu-dropdown:checked~.nav-links {
         max-height: 400px;
     }
-    #menu-dropdown:checked ~ .menu-bars .fa-bars:before {
+
+    #menu-dropdown:checked~.menu-bars .fa-bars:before {
         content: "\f00d";
+    }
+
+
+
+}
+
+@media (max-width: 700px) {
+    header {
+        padding: .5rem .5rem;
+    }
+
+    .hero {
+        padding: 5rem 2rem 5rem;
+    }
+
+    .logo-text {
+        font-size: .95rem;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+    .hero {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    .container {
+        padding: 1rem; 
+    }
+    .section-header {
+        margin: .5rem;
+    }
+    .section-description {
+        padding: 0rem;
+    }
+    .cta-box {
+        padding: 2.5rem  1.5rem;
+    }
+    #calendar {
+        padding: .3rem;
+    }
+    #calendar .section-title {
+        font-size: 1.5rem;
     }
 }
