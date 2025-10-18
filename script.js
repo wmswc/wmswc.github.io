@@ -31,7 +31,7 @@ const splashPhrases = [
     "~$ xdg-open https://wmswc.github.io",
     "~$ echo \"I'm up late talking to that duck!!\"",
     "~$ whoami // W&M Society of Women in Computing",
-    "~$ 0 8 * * 2 /home/swc/meet.sh",
+    "~$ 0 20 * * 2 /home/swc/meet.sh",
     "~$ getent group swc"
 ];
 
