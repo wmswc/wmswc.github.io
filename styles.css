@@ -646,6 +646,9 @@ footer {
     .section-header {
         margin: .5rem;
     }
+    .section-title {
+        font-size: 2rem;
+    }
     .section-description {
         padding: 0rem;
     }
