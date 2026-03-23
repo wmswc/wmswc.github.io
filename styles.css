@@ -725,4 +725,13 @@ footer {
     #calendar .section-title {
         font-size: 1.5rem;
     }
+    .exec-row {
+        flex-direction: column;
+        align-items: center;
+    }
+    .exec-row .exec-card {
+        flex: unset;
+        max-width: 100%;
+        width: 100%;
+    }
 }
